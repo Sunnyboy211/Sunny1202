@@ -13,6 +13,7 @@ public class DeptTest {
 						System.out.println("LOC= "+ dept.getLoc());
 						System.out.println("===================================");
 				}
+				System.out.println("廖神沒GG");
 				
 				/* 查詢方法  
 				Scanner sc =new Scanner(System.in);
